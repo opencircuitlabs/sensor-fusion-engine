@@ -1,0 +1,7 @@
+[
+  {"timeSeconds":0,"value":20.1},
+  {"timeSeconds":0.1,"value":20.2},
+  {"timeSeconds":0.2,"value":20.1},
+  {"timeSeconds":0.3,"value":20.3},
+  {"timeSeconds":0.4,"value":20.2}
+]

@@ -1,0 +1,6 @@
+{
+  "calibration":{"bias":[0.01,-0.02,0.003],"standardDeviation":[0.005,0.006,0.004]},
+  "orientation":{"rollDeg":1.2,"pitchDeg":-2.1,"yawDeg":45.4},
+  "health":{"healthy":true,"gapCount":0,"outOfRangeCount":0},
+  "uncertainty":{"p05HeadingDeg":43.8,"p50HeadingDeg":45.1,"p95HeadingDeg":46.5}
+}

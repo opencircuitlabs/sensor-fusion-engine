@@ -1,0 +1,7 @@
+[
+  {"timeSeconds":0,"accelerationMps2":[1,0,0]},
+  {"timeSeconds":0.5,"accelerationMps2":[1,0,0]},
+  {"timeSeconds":1,"accelerationMps2":[0,0,0]},
+  {"timeSeconds":1.5,"accelerationMps2":[-1,0,0]},
+  {"timeSeconds":2,"accelerationMps2":[-1,0,0]}
+]

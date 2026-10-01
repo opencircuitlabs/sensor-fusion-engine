@@ -1,0 +1,12 @@
+{
+  "name": "@opencircuitlabs/sensor-fusion-engine",
+  "version": "1.0.0",
+  "description": "Sensor calibration, time alignment, filtering, quaternion, Kalman, inertial, health, and uncertainty toolkit",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "bin": {"sensor-fusion-engine": "src/cli.js"},
+  "scripts": {"test": "node --test", "check": "npm test"},
+  "engines": {"node": ">=18"},
+  "license": "MIT"
+}
